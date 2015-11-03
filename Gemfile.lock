@@ -154,6 +154,7 @@ DEPENDENCIES
   dashing-rails (~> 2.4, >= 2.4.4)
   jbuilder (~> 2.0)
   jquery-rails (~> 3.1)
+  json
   pg
   puma
   rails (= 4.2.4)

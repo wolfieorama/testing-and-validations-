@@ -11,6 +11,8 @@ gem 'puma'
 gem 'dashing-rails', '~> 2.4', '>= 2.4.4'
 #jquery-rails
 gem 'jquery-rails', '~> 3.1'
+#json
+gem 'json'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
