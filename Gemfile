@@ -7,6 +7,8 @@ gem 'rails', '4.2.4'
 gem 'pg'
 #puma to run like one
 gem 'puma'
+
+gem "administrate"
 #dashing rails for sleek dashboards
 gem 'dashing-rails', '~> 2.4', '>= 2.4.4'
 #jquery-rails
